@@ -1,0 +1,3 @@
+git fetch --all
+git reset --hard heroku/master
+git pull heroku master
